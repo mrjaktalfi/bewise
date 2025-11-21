@@ -1,0 +1,5 @@
+{
+  "name": "Planificador Laboral",
+  "description": "Una aplicación interna de gestión de personal para planificar horarios de empleados en múltiples locales comerciales. Utiliza un asistente para generar y ajustar turnos automáticamente según la disponibilidad del empleado, las reglas del negocio y las necesidades de personal.",
+  "requestFramePermissions": []
+}
